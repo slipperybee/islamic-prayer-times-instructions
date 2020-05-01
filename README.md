@@ -44,7 +44,7 @@ __To access the menu the *up* button needs to be pressed and held__
 ### Touch Watch
 ![VivoActive](images/vivonobuttons.png)
 
-__To access the menu press the *back* button and hold.  Up and down is down through swiping.  To select *tap* the screen__
+__To access the menu press the *back* button and hold.  Up and down is done through swiping.  To select *tap* the screen__
 
 ### Other Devices
 See your manual to see how other devices use the menu depending on touch or not.
